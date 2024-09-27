@@ -15,7 +15,7 @@ The bot leverages LangChain, GPT-4.o mini, and Pinecone Vector DB to deliver fas
 
 ## Installation & Setup
 **1. Clone the Repository:**<br>
-     ```bash 
+     ``` 
      git clone https://github.com/pragatinaikare/RAG_BASED_CHATBOT.git
      ```<br>
 
