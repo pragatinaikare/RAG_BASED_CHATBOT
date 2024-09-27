@@ -14,10 +14,10 @@ The bot leverages LangChain, GPT-4.o mini, and Pinecone Vector DB to deliver fas
 - **Hosting:** Deployed on Heroku, allowing easy access to students anywhere, anytime.
 
 ## Installation & Setup
-**1. Clone the Repository:**
+**1. Clone the Repository:**<br>
      ```bash
     git clone https://github.com/yourusername/tamu-course-chatbot.git
-     ```
+     ```<br>
     ```bash
     cd tamu-course-chatbot
      ```
