@@ -2,7 +2,7 @@
 
 A specialized chatbot designed for CSCE (Computer Science & Engineering) and ECEN (Electrical & Computer Engineering) students at Texas A&M University. This chatbot simplifies the process of finding accurate and concise information related to courses, degrees, and credit requirements for students
 
-The bot leverages LangChain, GPT-4.o mini, and Pinecone Vector DB to deliver fast, relevant responses to specific academic queries. By using embeddings and a lightweight model, it improves user experience and helps students avoid the hassle of digging through long course handbooks or scattered online resources
+The bot leverages  **LangChain, GPT-4.o mini, and Pinecone Vector DB** to deliver fast, relevant responses to specific academic queries. By using embeddings and a lightweight model, it improves user experience and helps students avoid the hassle of digging through long course handbooks or scattered online resources
 
 ## Features
 - **Course, Degree, and Credit Information:** Provides precise and quick answers to frequently asked questions about CSCE and ECEN programs.
