@@ -17,18 +17,19 @@ The bot leverages LangChain, GPT-4.o mini, and Pinecone Vector DB to deliver fas
 **1. Clone the Repository:**
      ```bash
     git clone https://github.com/yourusername/tamu-course-chatbot.git
+     ```
+     ```
     cd tamu-course-chatbot
      ```
+     
 **2. Install Dependencies:**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-**3. Install Dependencies:** 
+**3. Set Up API Keys:** 
 You will need to create accounts with Pinecone and OpenAI to get your API keys. Add these keys in keys.txt file inside Data Folder
-```
-```
 
 **4. To Run Locally:**
  Uncomment this line:
