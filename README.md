@@ -18,7 +18,7 @@ The bot leverages LangChain, GPT-4.o mini, and Pinecone Vector DB to deliver fas
      ```bash
     git clone https://github.com/yourusername/tamu-course-chatbot.git
      ```
-     ```
+    ```bash
     cd tamu-course-chatbot
      ```
      
