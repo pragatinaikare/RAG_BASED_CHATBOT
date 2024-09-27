@@ -14,16 +14,15 @@ The bot leverages LangChain, GPT-4.o mini, and Pinecone Vector DB to deliver fas
 - **Hosting:** Deployed on Heroku, allowing easy access to students anywhere, anytime.
 
 ## Installation & Setup
-
- **1. Clone the Repository:**
+**1. Clone the Repository:**
      ```bash
     git clone https://github.com/yourusername/tamu-course-chatbot.git
     cd tamu-course-chatbot
-    ```
- **2. Install Dependencies:**
- Make sure you have Python 3.x and install the required packages:
+
+**2. Install Dependencies:**
+
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
 **3. Install Dependencies:** 
 You will need to create accounts with Pinecone and OpenAI to get your API keys. Add these keys in keys.txt file inside Data Folder
